@@ -1,0 +1,2 @@
+# .github
+Informations about Duckie.
